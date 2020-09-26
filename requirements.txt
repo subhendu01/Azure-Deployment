@@ -1,0 +1,11 @@
+Flask
+pandas
+matplotlib
+numpy
+requests
+scikit-learn
+scipy
+sklearn
+urllib3
+Werkzeug
+gunicorn
